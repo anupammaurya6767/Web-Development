@@ -1,3 +1,5 @@
+# Node.js <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
+
 # 1. Installing Node.js
 
 1. Download Node.js at https://nodejs.org/
