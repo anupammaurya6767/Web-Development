@@ -14,8 +14,11 @@ $ npm install ejs
 ## Files To make
 
 ~ Create a folder name "views" (It's Important) </br>
+</br>
 ~ Create a file "index.ejs" </br>
+</br>
 ~ In index.ejs write your code(html)</n> </br>
+</br>
    ex: 
        ```
          <h1>It's a <%= var %></h1>
