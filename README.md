@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFA500&size=40&width=750&height=80&lines=Web+Development" />
 </p>
 
-
+<p align="center">
   <!-- PROJECT SHIELDS -->
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
@@ -11,10 +11,6 @@
   [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<p align="center">
-  <a href="https://github.com/anupammaurya6767/Web-Development">
-    <img width="64" height="64" alt="web development resources" src="https://user-images.githubusercontent.com/9361180/86557412-c37c3f00-bf75-11ea-8503-b42bd67646b2.png" />
-  </a>
 </p>
 
 
