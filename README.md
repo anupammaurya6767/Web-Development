@@ -12,7 +12,7 @@
     <img width="64" height="64" alt="web development resources" src="https://user-images.githubusercontent.com/9361180/86557412-c37c3f00-bf75-11ea-8503-b42bd67646b2.png" />
   </a>
 </p>
-
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
