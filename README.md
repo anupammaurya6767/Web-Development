@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFA500&size=40&width=750&height=80&lines=Web+Development" />
 </p>
 
-<p align="center">
+<div align="center">
       <!-- PROJECT SHIELDS -->
       [![Contributors][contributors-shield]][contributors-url]
       [![Forks][forks-shield]][forks-url]
@@ -10,7 +10,7 @@
       [![Issues][issues-shield]][issues-url]
       [![MIT License][license-shield]][license-url]
       [![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
+</div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
