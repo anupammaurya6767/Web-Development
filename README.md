@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFA500&size=40&width=750&height=80&lines=Web+Development"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=FFA500&size=40&width=750&height=80&lines=Web+Development" />
 </p>
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
