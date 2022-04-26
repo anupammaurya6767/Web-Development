@@ -1,3 +1,5 @@
+# Nodemon  <img alt="Express" src="https://img.shields.io/badge/-Nodemon-red?style=flat-square&logo=nodemon&logoColor=white"/>
+
 # 1. About Nodemon
  
 nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
