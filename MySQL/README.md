@@ -1,6 +1,6 @@
-# SQL --> Structured Query Language
+# My SQL <img alt="MYSql" src="https://img.shields.io/badge/-mySQL-orange?style=flat-square&logo=mysql&logoColor=white"/>
 
-<img alt="MYSql" src="https://img.shields.io/badge/-mySQL-orange?style=flat-square&logo=mysql&logoColor=white"/>
+### SQL --> Structured Query Language
 
 SQL is a database computer language designed for the retrieval and management of data in a relational database. 
 
