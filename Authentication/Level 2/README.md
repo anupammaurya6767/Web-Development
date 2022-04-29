@@ -73,7 +73,7 @@
    // In file .env
    SECRET = VALUE(value);
 ```
-####### To access the variables in main js file
+###### To access the variables in main js file
 
 ```
     console.log(process.env.value);
