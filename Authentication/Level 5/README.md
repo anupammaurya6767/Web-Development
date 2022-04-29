@@ -57,8 +57,8 @@
 
   app.post("/login",function(req,res){
     const newUser = new User({
-    email:req.body.email;
-    password:req.body.password;
+    email:req.body.email,
+    password:req.body.password
     });
     req.login(user,function(err){
      if(err)
