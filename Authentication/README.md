@@ -1,3 +1,4 @@
 # Authentication and Security
 
-<img src="https://giphy.com/embed/l1J9y2cl8WMlgvpSw">
+![Alt Text](https://media.giphy.com/media/l1J9y2cl8WMlgvpSw/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
